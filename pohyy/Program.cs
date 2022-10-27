@@ -1,5 +1,5 @@
 ﻿using System;
-namespace pohyy
+namespace norm
 {
     class Program
     {
